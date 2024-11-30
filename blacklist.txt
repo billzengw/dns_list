@@ -305,6 +305,7 @@
 ||zhs.app^
 ||zpmzt.com^
 ||zttaotu.com^
+||123892.xyz^
 
 
 /fuli/
