@@ -357,6 +357,8 @@
 ||zpmzt.com^
 ||zsbs.net^
 ||zttaotu.com^
+||flsft.com^
+||xgyouwu.com^
 
 /fuli/
 /heel/
