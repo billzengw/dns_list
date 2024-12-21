@@ -360,6 +360,16 @@
 ||flsft.com^
 ||xgyouwu.com^
 ||shpilivili.org^
+||ibb.co^
+||hzhai.net^
+||wtao.us^
+||rjhome.me^
+||52ezacg.com^
+||mituiji.com^
+||lyg05.com^
+||hejig.cn^
+||tmm123.vip^
+||24meinv.com^
 
 /fuli/
 /heel/
