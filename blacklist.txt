@@ -378,7 +378,17 @@
 ||52tm.top^
 ||theairgottoit.com^
 ||0cps.com^
+||proxysite.com^
+||proxyium.com^
+||coproxy.io^
+||proxypal.net^
+||4everproxy.com^
+||steganos.com^
+||vpnbook.com^
+||kproxy.com^
+||lumiproxy.com^
 
+/proxy/
 /fuli/
 /heel/
 /jav/
