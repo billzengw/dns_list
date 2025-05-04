@@ -387,6 +387,7 @@
 ||vpnbook.com^
 ||kproxy.com^
 ||lumiproxy.com^
+||0001.mom^
 
 /proxy/
 /fuli/
